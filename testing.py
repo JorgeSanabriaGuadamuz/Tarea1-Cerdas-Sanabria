@@ -1,3 +1,4 @@
+# ERR1
 print("Se cuentan con 2 funciones: basic_ops y array_ops")
 print("basic_ops(primer dato, segundo dato, operación)")
 print("array_ops(primer array, segundo array, operación)")
